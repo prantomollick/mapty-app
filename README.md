@@ -2,9 +2,9 @@
 
 Using Javascript, css, html
 
-## Webpage Link of this game
+## Webpage Link of this Mapty-App
 
-- [@Bankist-Marketing-Website-html-css-js](https://prantomollick.github.io/bankist-marketing-website-template-HTML-CSS-JavaScript/)
+- [@Mapty-APP-html-css-js](https://prantomollick.github.io/mapty-app/)
 
 ## Screenshots
 
